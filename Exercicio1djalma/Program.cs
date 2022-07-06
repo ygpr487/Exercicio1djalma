@@ -72,7 +72,7 @@ namespace Exercicio1djalma
 
             {
 
-                Console.WriteLine("O seu conceito é: C");
+                Console.WriteLine("O seu conceito é: E");
 
             }
 
